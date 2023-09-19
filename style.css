@@ -5,3 +5,10 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+nav {
+    background-color: #ececec;
+}
+main {
+    background-color: #ffffff;
+}
